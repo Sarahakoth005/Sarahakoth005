@@ -11,7 +11,7 @@
 * 🚀  I'm currently working on building a rockstar career in Data Science.
 * 🧠  I'm currently learning how to build Data Science project.
 * 🤝  I'm open to collaboration.
-* ⚡  I'm an Arsenal fan.
+* ⚡  I like exploring new skills and ideas
 
 
 <!---
